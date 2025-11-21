@@ -6,7 +6,11 @@
   <p>사용자 경험을 최우선으로 생각하며, 안정적인 앱 서비스를 개발합니다.</p>
   
   <br/>
-
+<p align="center">
+  <a href="https://bangmim.github.io/my-frontend-portfolio">
+    <img src="https://img.shields.io/badge/My Portfolio-5C2D91?style=for-the-badge&logo=react" alt="포트폴리오 바로가기 버튼" />
+  </a>
+</p>
   <h3>🛠 Tech Stack</h3>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -14,10 +18,7 @@
   
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
