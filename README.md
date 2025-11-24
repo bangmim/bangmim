@@ -1,12 +1,11 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hello,%20I'm%20Mihyun!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  ### 🚀 끊임없이 성장하는 React Native 개발자, 박미현입니다.
+<!-- <p align="center">
+ ### 🚀 끊임없이 성장하는 React Native 개발자, 박미현입니다.
   <p>사용자 경험을 최우선으로 생각하며, 안정적인 앱 서비스를 개발합니다.</p>
   
   <br/>
-<p align="center">
   <a href="https://bangmim.github.io/my-frontend-portfolio">
     <img src="https://img.shields.io/badge/My Portfolio-5C2D91?style=for-the-badge&logo=react" alt="포트폴리오 바로가기 버튼" />
   </a>
@@ -33,6 +32,6 @@
   <h3>📮 Contact</h3>
   <a href="mailto:본인@이메일주소.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a> -->
 
 </div>
