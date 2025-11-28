@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hello,%20I'm%20Mihyun!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=50&section=header&text=Hello,%20I'm%20Mihyun!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 <!-- <p align="center">
  ### 🚀 끊임없이 성장하는 React Native 개발자, 박미현입니다.
   <p>사용자 경험을 최우선으로 생각하며, 안정적인 앱 서비스를 개발합니다.</p>
